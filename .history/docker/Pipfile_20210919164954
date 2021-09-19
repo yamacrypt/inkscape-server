@@ -1,0 +1,23 @@
+
+ 
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+ 
+[packages]
+fastapi = "==0.63.0"
+uvicorn = {extras = ["standard"], version = "==0.13.4"}
+Gunicorn = "==20.0.4"
+orjson = "==3.5.1"
+python-multipart = "==0.0.5"
+aiofiles = "==0.6.0"
+ 
+[dev-packages]
+pytest = "==6.2.2"
+pytest-asyncio = "==0.14.0"
+requests = "==2.25.1"
+ 
+[requires]
+python_version = "3.8"
+ 

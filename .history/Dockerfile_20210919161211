@@ -1,0 +1,4 @@
+FROM ubuntu:20.04
+LABEL description="inkscpaeのAPIサーバー"
+Run apt update
+RUN

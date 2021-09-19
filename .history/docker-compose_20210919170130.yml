@@ -1,0 +1,16 @@
+version: '3.9'
+services:
+  fastapi-sample:
+    build:
+      context: ./
+      dockerfile: docker/Dockerfile
+    image: fastapi-sample
+    working_dir: /usr/src/fastapi_sample
+    command: 
+      pipenv run gunicorn backend.main:app --reload
+      --config './backend/gunicorn.conf.py'
+    volumes:
+      - ./logs:/usr/src/fastapi_sample/logs
+    environment:
+      - TZ=Asia/Tokyo
+    restart: always

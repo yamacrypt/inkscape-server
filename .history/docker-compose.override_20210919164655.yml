@@ -1,0 +1,13 @@
+
+ 
+version: '3.9'
+services:
+  fastapi-sample:
+    build:
+      target: dev
+    volumes:
+      - ./backend:/usr/src/fastapi_sample/backend
+    ports:
+      - 2003:2003
+    environment:
+      - PORT=2003

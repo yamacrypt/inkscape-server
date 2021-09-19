@@ -1,0 +1,14 @@
+version: '1'
+
+services:
+  fastapi:
+    ports:
+      - 2003:2003
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    restart: always
+    volumes:
+      - ./api:/api
+    command: >
+      gunicorn --log-level debug  main:app

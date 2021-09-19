@@ -1,0 +1,2189 @@
+[2021-09-19 16:54:42 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 16:54:42 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 16:54:42 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 16:54:42 +0900] [13] [INFO] Booting worker with pid: 13
+[2021-09-19 16:54:42 +0900] [14] [INFO] Booting worker with pid: 14
+[2021-09-19 16:54:43 +0900] [16] [INFO] Booting worker with pid: 16
+[2021-09-19 16:54:43 +0900] [13] [INFO] Started server process [13]
+[2021-09-19 16:54:43 +0900] [13] [INFO] Waiting for application startup.
+[2021-09-19 16:54:43 +0900] [13] [INFO] Application startup complete.
+[2021-09-19 16:54:43 +0900] [17] [INFO] Booting worker with pid: 17
+[2021-09-19 16:54:43 +0900] [18] [INFO] Booting worker with pid: 18
+[2021-09-19 16:54:43 +0900] [20] [INFO] Booting worker with pid: 20
+[2021-09-19 16:54:43 +0900] [14] [INFO] Started server process [14]
+[2021-09-19 16:54:43 +0900] [14] [INFO] Waiting for application startup.
+[2021-09-19 16:54:43 +0900] [14] [INFO] Application startup complete.
+[2021-09-19 16:54:43 +0900] [16] [INFO] Started server process [16]
+[2021-09-19 16:54:43 +0900] [16] [INFO] Waiting for application startup.
+[2021-09-19 16:54:43 +0900] [16] [INFO] Application startup complete.
+[2021-09-19 16:54:43 +0900] [22] [INFO] Booting worker with pid: 22
+[2021-09-19 16:54:43 +0900] [24] [INFO] Booting worker with pid: 24
+[2021-09-19 16:54:43 +0900] [17] [INFO] Started server process [17]
+[2021-09-19 16:54:43 +0900] [17] [INFO] Waiting for application startup.
+[2021-09-19 16:54:43 +0900] [17] [INFO] Application startup complete.
+[2021-09-19 16:54:43 +0900] [20] [INFO] Started server process [20]
+[2021-09-19 16:54:43 +0900] [20] [INFO] Waiting for application startup.
+[2021-09-19 16:54:43 +0900] [20] [INFO] Application startup complete.
+[2021-09-19 16:54:43 +0900] [18] [INFO] Started server process [18]
+[2021-09-19 16:54:43 +0900] [18] [INFO] Waiting for application startup.
+[2021-09-19 16:54:43 +0900] [27] [INFO] Booting worker with pid: 27
+[2021-09-19 16:54:43 +0900] [18] [INFO] Application startup complete.
+[2021-09-19 16:54:43 +0900] [22] [INFO] Started server process [22]
+[2021-09-19 16:54:43 +0900] [22] [INFO] Waiting for application startup.
+[2021-09-19 16:54:43 +0900] [22] [INFO] Application startup complete.
+[2021-09-19 16:54:43 +0900] [24] [INFO] Started server process [24]
+[2021-09-19 16:54:43 +0900] [24] [INFO] Waiting for application startup.
+[2021-09-19 16:54:43 +0900] [24] [INFO] Application startup complete.
+[2021-09-19 16:54:43 +0900] [27] [INFO] Started server process [27]
+[2021-09-19 16:54:43 +0900] [27] [INFO] Waiting for application startup.
+[2021-09-19 16:54:43 +0900] [27] [INFO] Application startup complete.
+[2021-09-19 16:55:10 +0900] [13] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 16:55:10 +0900] [14] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 16:55:10 +0900] [16] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 16:55:10 +0900] [17] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 16:55:10 +0900] [20] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 16:55:10 +0900] [18] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 16:55:10 +0900] [22] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 16:55:10 +0900] [24] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 16:55:10 +0900] [27] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:01:31 +0900] [1] [INFO] Handling signal: term
+[2021-09-19 17:01:31 +0900] [20] [INFO] Shutting down
+[2021-09-19 17:01:31 +0900] [18] [INFO] Shutting down
+[2021-09-19 17:01:31 +0900] [20] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:01:31 +0900] [18] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:01:31 +0900] [24] [INFO] Shutting down
+[2021-09-19 17:01:31 +0900] [24] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:01:31 +0900] [13] [INFO] Shutting down
+[2021-09-19 17:01:31 +0900] [13] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:01:31 +0900] [14] [INFO] Shutting down
+[2021-09-19 17:01:31 +0900] [14] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:01:31 +0900] [17] [INFO] Shutting down
+[2021-09-19 17:01:31 +0900] [17] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:01:31 +0900] [22] [INFO] Shutting down
+[2021-09-19 17:01:31 +0900] [22] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:01:31 +0900] [27] [INFO] Shutting down
+[2021-09-19 17:01:31 +0900] [27] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:01:31 +0900] [16] [INFO] Shutting down
+[2021-09-19 17:01:31 +0900] [16] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:01:31 +0900] [20] [INFO] Waiting for application shutdown.
+[2021-09-19 17:01:31 +0900] [18] [INFO] Waiting for application shutdown.
+[2021-09-19 17:01:31 +0900] [20] [INFO] Application shutdown complete.
+[2021-09-19 17:01:31 +0900] [18] [INFO] Application shutdown complete.
+[2021-09-19 17:01:31 +0900] [20] [INFO] Finished server process [20]
+[2021-09-19 17:01:31 +0900] [18] [INFO] Finished server process [18]
+[2021-09-19 17:01:31 +0900] [18] [INFO] Worker exiting (pid: 18)
+[2021-09-19 17:01:31 +0900] [20] [INFO] Worker exiting (pid: 20)
+[2021-09-19 17:01:31 +0900] [24] [INFO] Waiting for application shutdown.
+[2021-09-19 17:01:31 +0900] [24] [INFO] Application shutdown complete.
+[2021-09-19 17:01:31 +0900] [24] [INFO] Finished server process [24]
+[2021-09-19 17:01:31 +0900] [24] [INFO] Worker exiting (pid: 24)
+[2021-09-19 17:01:31 +0900] [13] [INFO] Waiting for application shutdown.
+[2021-09-19 17:01:31 +0900] [13] [INFO] Application shutdown complete.
+[2021-09-19 17:01:31 +0900] [13] [INFO] Finished server process [13]
+[2021-09-19 17:01:31 +0900] [13] [INFO] Worker exiting (pid: 13)
+[2021-09-19 17:01:31 +0900] [14] [INFO] Waiting for application shutdown.
+[2021-09-19 17:01:31 +0900] [14] [INFO] Application shutdown complete.
+[2021-09-19 17:01:31 +0900] [14] [INFO] Finished server process [14]
+[2021-09-19 17:01:31 +0900] [14] [INFO] Worker exiting (pid: 14)
+[2021-09-19 17:01:31 +0900] [17] [INFO] Waiting for application shutdown.
+[2021-09-19 17:01:31 +0900] [17] [INFO] Application shutdown complete.
+[2021-09-19 17:01:31 +0900] [17] [INFO] Finished server process [17]
+[2021-09-19 17:01:31 +0900] [17] [INFO] Worker exiting (pid: 17)
+[2021-09-19 17:01:31 +0900] [22] [INFO] Waiting for application shutdown.
+[2021-09-19 17:01:31 +0900] [22] [INFO] Application shutdown complete.
+[2021-09-19 17:01:31 +0900] [22] [INFO] Finished server process [22]
+[2021-09-19 17:01:31 +0900] [22] [INFO] Worker exiting (pid: 22)
+[2021-09-19 17:01:31 +0900] [27] [INFO] Waiting for application shutdown.
+[2021-09-19 17:01:31 +0900] [27] [INFO] Application shutdown complete.
+[2021-09-19 17:01:31 +0900] [27] [INFO] Finished server process [27]
+[2021-09-19 17:01:31 +0900] [27] [INFO] Worker exiting (pid: 27)
+[2021-09-19 17:01:31 +0900] [16] [INFO] Waiting for application shutdown.
+[2021-09-19 17:01:31 +0900] [16] [INFO] Application shutdown complete.
+[2021-09-19 17:01:31 +0900] [16] [INFO] Finished server process [16]
+[2021-09-19 17:01:31 +0900] [16] [INFO] Worker exiting (pid: 16)
+[2021-09-19 17:01:31 +0900] [1] [INFO] Shutting down: Master
+[2021-09-19 17:01:36 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 17:01:36 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 17:01:36 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 17:01:36 +0900] [14] [INFO] Booting worker with pid: 14
+[2021-09-19 17:01:36 +0900] [15] [INFO] Booting worker with pid: 15
+[2021-09-19 17:01:36 +0900] [14] [INFO] Started server process [14]
+[2021-09-19 17:01:36 +0900] [14] [INFO] Waiting for application startup.
+[2021-09-19 17:01:36 +0900] [14] [INFO] Application startup complete.
+[2021-09-19 17:01:36 +0900] [17] [INFO] Booting worker with pid: 17
+[2021-09-19 17:01:36 +0900] [19] [INFO] Booting worker with pid: 19
+[2021-09-19 17:01:36 +0900] [15] [INFO] Started server process [15]
+[2021-09-19 17:01:36 +0900] [15] [INFO] Waiting for application startup.
+[2021-09-19 17:01:36 +0900] [15] [INFO] Application startup complete.
+[2021-09-19 17:01:36 +0900] [20] [INFO] Booting worker with pid: 20
+[2021-09-19 17:01:36 +0900] [21] [INFO] Booting worker with pid: 21
+[2021-09-19 17:01:36 +0900] [17] [INFO] Started server process [17]
+[2021-09-19 17:01:36 +0900] [17] [INFO] Waiting for application startup.
+[2021-09-19 17:01:36 +0900] [17] [INFO] Application startup complete.
+[2021-09-19 17:01:36 +0900] [23] [INFO] Booting worker with pid: 23
+[2021-09-19 17:01:36 +0900] [19] [INFO] Started server process [19]
+[2021-09-19 17:01:36 +0900] [19] [INFO] Waiting for application startup.
+[2021-09-19 17:01:36 +0900] [19] [INFO] Application startup complete.
+[2021-09-19 17:01:36 +0900] [26] [INFO] Booting worker with pid: 26
+[2021-09-19 17:01:36 +0900] [20] [INFO] Started server process [20]
+[2021-09-19 17:01:36 +0900] [20] [INFO] Waiting for application startup.
+[2021-09-19 17:01:36 +0900] [20] [INFO] Application startup complete.
+[2021-09-19 17:01:36 +0900] [21] [INFO] Started server process [21]
+[2021-09-19 17:01:36 +0900] [21] [INFO] Waiting for application startup.
+[2021-09-19 17:01:36 +0900] [21] [INFO] Application startup complete.
+[2021-09-19 17:01:36 +0900] [28] [INFO] Booting worker with pid: 28
+[2021-09-19 17:01:36 +0900] [23] [INFO] Started server process [23]
+[2021-09-19 17:01:36 +0900] [23] [INFO] Waiting for application startup.
+[2021-09-19 17:01:36 +0900] [23] [INFO] Application startup complete.
+[2021-09-19 17:01:36 +0900] [26] [INFO] Started server process [26]
+[2021-09-19 17:01:36 +0900] [26] [INFO] Waiting for application startup.
+[2021-09-19 17:01:36 +0900] [26] [INFO] Application startup complete.
+[2021-09-19 17:01:36 +0900] [28] [INFO] Started server process [28]
+[2021-09-19 17:01:36 +0900] [28] [INFO] Waiting for application startup.
+[2021-09-19 17:01:36 +0900] [28] [INFO] Application startup complete.
+[2021-09-19 17:01:53 +0900] [14] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:01:53 +0900] [15] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:01:53 +0900] [17] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:01:53 +0900] [19] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:01:53 +0900] [20] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:01:53 +0900] [21] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:01:53 +0900] [23] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:01:53 +0900] [26] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:01:53 +0900] [28] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:17:57 +0900] [1] [INFO] Handling signal: term
+[2021-09-19 17:17:57 +0900] [17] [INFO] Shutting down
+[2021-09-19 17:17:57 +0900] [17] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:17:57 +0900] [28] [INFO] Shutting down
+[2021-09-19 17:17:57 +0900] [20] [INFO] Shutting down
+[2021-09-19 17:17:57 +0900] [28] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:17:57 +0900] [20] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:17:57 +0900] [15] [INFO] Shutting down
+[2021-09-19 17:17:57 +0900] [15] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:17:57 +0900] [26] [INFO] Shutting down
+[2021-09-19 17:17:57 +0900] [26] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:17:57 +0900] [21] [INFO] Shutting down
+[2021-09-19 17:17:57 +0900] [21] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:17:57 +0900] [14] [INFO] Shutting down
+[2021-09-19 17:17:57 +0900] [14] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:17:57 +0900] [23] [INFO] Shutting down
+[2021-09-19 17:17:57 +0900] [23] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:17:57 +0900] [19] [INFO] Shutting down
+[2021-09-19 17:17:57 +0900] [19] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:17:57 +0900] [17] [INFO] Waiting for application shutdown.
+[2021-09-19 17:17:57 +0900] [17] [INFO] Application shutdown complete.
+[2021-09-19 17:17:57 +0900] [17] [INFO] Finished server process [17]
+[2021-09-19 17:17:57 +0900] [17] [INFO] Worker exiting (pid: 17)
+[2021-09-19 17:17:57 +0900] [28] [INFO] Waiting for application shutdown.
+[2021-09-19 17:17:57 +0900] [28] [INFO] Application shutdown complete.
+[2021-09-19 17:17:57 +0900] [28] [INFO] Finished server process [28]
+[2021-09-19 17:17:57 +0900] [28] [INFO] Worker exiting (pid: 28)
+[2021-09-19 17:17:57 +0900] [20] [INFO] Waiting for application shutdown.
+[2021-09-19 17:17:57 +0900] [20] [INFO] Application shutdown complete.
+[2021-09-19 17:17:57 +0900] [20] [INFO] Finished server process [20]
+[2021-09-19 17:17:57 +0900] [20] [INFO] Worker exiting (pid: 20)
+[2021-09-19 17:17:57 +0900] [15] [INFO] Waiting for application shutdown.
+[2021-09-19 17:17:57 +0900] [15] [INFO] Application shutdown complete.
+[2021-09-19 17:17:57 +0900] [15] [INFO] Finished server process [15]
+[2021-09-19 17:17:57 +0900] [15] [INFO] Worker exiting (pid: 15)
+[2021-09-19 17:17:57 +0900] [26] [INFO] Waiting for application shutdown.
+[2021-09-19 17:17:57 +0900] [26] [INFO] Application shutdown complete.
+[2021-09-19 17:17:57 +0900] [26] [INFO] Finished server process [26]
+[2021-09-19 17:17:57 +0900] [26] [INFO] Worker exiting (pid: 26)
+[2021-09-19 17:17:57 +0900] [21] [INFO] Waiting for application shutdown.
+[2021-09-19 17:17:57 +0900] [21] [INFO] Application shutdown complete.
+[2021-09-19 17:17:57 +0900] [21] [INFO] Finished server process [21]
+[2021-09-19 17:17:57 +0900] [21] [INFO] Worker exiting (pid: 21)
+[2021-09-19 17:17:58 +0900] [14] [INFO] Waiting for application shutdown.
+[2021-09-19 17:17:58 +0900] [14] [INFO] Application shutdown complete.
+[2021-09-19 17:17:58 +0900] [14] [INFO] Finished server process [14]
+[2021-09-19 17:17:58 +0900] [14] [INFO] Worker exiting (pid: 14)
+[2021-09-19 17:17:58 +0900] [23] [INFO] Waiting for application shutdown.
+[2021-09-19 17:17:58 +0900] [23] [INFO] Application shutdown complete.
+[2021-09-19 17:17:58 +0900] [23] [INFO] Finished server process [23]
+[2021-09-19 17:17:58 +0900] [19] [INFO] Waiting for application shutdown.
+[2021-09-19 17:17:58 +0900] [19] [INFO] Application shutdown complete.
+[2021-09-19 17:17:58 +0900] [19] [INFO] Finished server process [19]
+[2021-09-19 17:17:58 +0900] [19] [INFO] Worker exiting (pid: 19)
+[2021-09-19 17:17:58 +0900] [23] [INFO] Worker exiting (pid: 23)
+[2021-09-19 17:17:58 +0900] [1] [INFO] Shutting down: Master
+[2021-09-19 17:18:05 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 17:18:05 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 17:18:05 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 17:18:05 +0900] [12] [INFO] Booting worker with pid: 12
+[2021-09-19 17:18:05 +0900] [13] [INFO] Booting worker with pid: 13
+[2021-09-19 17:18:05 +0900] [14] [INFO] Booting worker with pid: 14
+[2021-09-19 17:18:05 +0900] [15] [INFO] Booting worker with pid: 15
+[2021-09-19 17:18:06 +0900] [16] [INFO] Booting worker with pid: 16
+[2021-09-19 17:18:06 +0900] [17] [INFO] Booting worker with pid: 17
+[2021-09-19 17:18:06 +0900] [20] [INFO] Booting worker with pid: 20
+[2021-09-19 17:18:06 +0900] [13] [INFO] Started server process [13]
+[2021-09-19 17:18:06 +0900] [13] [INFO] Waiting for application startup.
+[2021-09-19 17:18:06 +0900] [13] [INFO] Application startup complete.
+[2021-09-19 17:18:06 +0900] [12] [INFO] Started server process [12]
+[2021-09-19 17:18:06 +0900] [12] [INFO] Waiting for application startup.
+[2021-09-19 17:18:06 +0900] [12] [INFO] Application startup complete.
+[2021-09-19 17:18:06 +0900] [22] [INFO] Booting worker with pid: 22
+[2021-09-19 17:18:06 +0900] [14] [INFO] Started server process [14]
+[2021-09-19 17:18:06 +0900] [14] [INFO] Waiting for application startup.
+[2021-09-19 17:18:06 +0900] [14] [INFO] Application startup complete.
+[2021-09-19 17:18:06 +0900] [23] [INFO] Booting worker with pid: 23
+[2021-09-19 17:18:06 +0900] [15] [INFO] Started server process [15]
+[2021-09-19 17:18:06 +0900] [15] [INFO] Waiting for application startup.
+[2021-09-19 17:18:06 +0900] [15] [INFO] Application startup complete.
+[2021-09-19 17:18:06 +0900] [20] [INFO] Started server process [20]
+[2021-09-19 17:18:06 +0900] [20] [INFO] Waiting for application startup.
+[2021-09-19 17:18:06 +0900] [20] [INFO] Application startup complete.
+[2021-09-19 17:18:06 +0900] [16] [INFO] Started server process [16]
+[2021-09-19 17:18:06 +0900] [16] [INFO] Waiting for application startup.
+[2021-09-19 17:18:06 +0900] [16] [INFO] Application startup complete.
+[2021-09-19 17:18:06 +0900] [17] [INFO] Started server process [17]
+[2021-09-19 17:18:06 +0900] [17] [INFO] Waiting for application startup.
+[2021-09-19 17:18:06 +0900] [17] [INFO] Application startup complete.
+[2021-09-19 17:18:06 +0900] [22] [INFO] Started server process [22]
+[2021-09-19 17:18:06 +0900] [22] [INFO] Waiting for application startup.
+[2021-09-19 17:18:06 +0900] [22] [INFO] Application startup complete.
+[2021-09-19 17:18:06 +0900] [23] [INFO] Started server process [23]
+[2021-09-19 17:18:06 +0900] [23] [INFO] Waiting for application startup.
+[2021-09-19 17:18:06 +0900] [23] [INFO] Application startup complete.
+[2021-09-19 17:18:19 +0900] [15] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:18:19 +0900] [20] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:18:19 +0900] [16] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:18:19 +0900] [17] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:18:19 +0900] [22] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:18:19 +0900] [23] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:18:20 +0900] [13] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:18:20 +0900] [12] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:18:20 +0900] [14] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:18:21 +0900] [1] [INFO] Handling signal: term
+[2021-09-19 17:18:21 +0900] [17] [INFO] Shutting down
+[2021-09-19 17:18:21 +0900] [17] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:18:21 +0900] [14] [INFO] Shutting down
+[2021-09-19 17:18:21 +0900] [14] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:18:21 +0900] [22] [INFO] Shutting down
+[2021-09-19 17:18:21 +0900] [22] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:18:21 +0900] [23] [INFO] Shutting down
+[2021-09-19 17:18:21 +0900] [23] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:18:21 +0900] [15] [INFO] Shutting down
+[2021-09-19 17:18:21 +0900] [15] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:18:21 +0900] [13] [INFO] Shutting down
+[2021-09-19 17:18:21 +0900] [13] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:18:21 +0900] [20] [INFO] Shutting down
+[2021-09-19 17:18:21 +0900] [20] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:18:21 +0900] [12] [INFO] Shutting down
+[2021-09-19 17:18:21 +0900] [12] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:18:21 +0900] [16] [INFO] Shutting down
+[2021-09-19 17:18:21 +0900] [16] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:18:21 +0900] [17] [INFO] Waiting for application shutdown.
+[2021-09-19 17:18:21 +0900] [17] [INFO] Application shutdown complete.
+[2021-09-19 17:18:21 +0900] [17] [INFO] Finished server process [17]
+[2021-09-19 17:18:21 +0900] [17] [INFO] Worker exiting (pid: 17)
+[2021-09-19 17:18:21 +0900] [14] [INFO] Waiting for application shutdown.
+[2021-09-19 17:18:21 +0900] [14] [INFO] Application shutdown complete.
+[2021-09-19 17:18:21 +0900] [14] [INFO] Finished server process [14]
+[2021-09-19 17:18:21 +0900] [14] [INFO] Worker exiting (pid: 14)
+[2021-09-19 17:18:21 +0900] [22] [INFO] Waiting for application shutdown.
+[2021-09-19 17:18:21 +0900] [22] [INFO] Application shutdown complete.
+[2021-09-19 17:18:21 +0900] [22] [INFO] Finished server process [22]
+[2021-09-19 17:18:21 +0900] [22] [INFO] Worker exiting (pid: 22)
+[2021-09-19 17:18:21 +0900] [23] [INFO] Waiting for application shutdown.
+[2021-09-19 17:18:21 +0900] [23] [INFO] Application shutdown complete.
+[2021-09-19 17:18:21 +0900] [23] [INFO] Finished server process [23]
+[2021-09-19 17:18:21 +0900] [23] [INFO] Worker exiting (pid: 23)
+[2021-09-19 17:18:21 +0900] [13] [INFO] Waiting for application shutdown.
+[2021-09-19 17:18:21 +0900] [13] [INFO] Application shutdown complete.
+[2021-09-19 17:18:21 +0900] [13] [INFO] Finished server process [13]
+[2021-09-19 17:18:21 +0900] [15] [INFO] Waiting for application shutdown.
+[2021-09-19 17:18:21 +0900] [15] [INFO] Application shutdown complete.
+[2021-09-19 17:18:21 +0900] [13] [INFO] Worker exiting (pid: 13)
+[2021-09-19 17:18:21 +0900] [15] [INFO] Finished server process [15]
+[2021-09-19 17:18:21 +0900] [15] [INFO] Worker exiting (pid: 15)
+[2021-09-19 17:18:21 +0900] [20] [INFO] Waiting for application shutdown.
+[2021-09-19 17:18:21 +0900] [20] [INFO] Application shutdown complete.
+[2021-09-19 17:18:21 +0900] [20] [INFO] Finished server process [20]
+[2021-09-19 17:18:21 +0900] [20] [INFO] Worker exiting (pid: 20)
+[2021-09-19 17:18:21 +0900] [12] [INFO] Waiting for application shutdown.
+[2021-09-19 17:18:21 +0900] [12] [INFO] Application shutdown complete.
+[2021-09-19 17:18:21 +0900] [12] [INFO] Finished server process [12]
+[2021-09-19 17:18:21 +0900] [12] [INFO] Worker exiting (pid: 12)
+[2021-09-19 17:18:21 +0900] [16] [INFO] Waiting for application shutdown.
+[2021-09-19 17:18:21 +0900] [16] [INFO] Application shutdown complete.
+[2021-09-19 17:18:21 +0900] [16] [INFO] Finished server process [16]
+[2021-09-19 17:18:21 +0900] [16] [INFO] Worker exiting (pid: 16)
+[2021-09-19 17:18:21 +0900] [1] [INFO] Shutting down: Master
+[2021-09-19 17:18:24 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 17:18:24 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 17:18:24 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 17:18:24 +0900] [14] [INFO] Booting worker with pid: 14
+[2021-09-19 17:18:25 +0900] [15] [INFO] Booting worker with pid: 15
+[2021-09-19 17:18:25 +0900] [17] [INFO] Booting worker with pid: 17
+[2021-09-19 17:18:25 +0900] [14] [INFO] Started server process [14]
+[2021-09-19 17:18:25 +0900] [14] [INFO] Waiting for application startup.
+[2021-09-19 17:18:25 +0900] [14] [INFO] Application startup complete.
+[2021-09-19 17:18:25 +0900] [18] [INFO] Booting worker with pid: 18
+[2021-09-19 17:18:25 +0900] [19] [INFO] Booting worker with pid: 19
+[2021-09-19 17:18:25 +0900] [20] [INFO] Booting worker with pid: 20
+[2021-09-19 17:18:25 +0900] [15] [INFO] Started server process [15]
+[2021-09-19 17:18:25 +0900] [15] [INFO] Waiting for application startup.
+[2021-09-19 17:18:25 +0900] [15] [INFO] Application startup complete.
+[2021-09-19 17:18:25 +0900] [22] [INFO] Booting worker with pid: 22
+[2021-09-19 17:18:25 +0900] [23] [INFO] Booting worker with pid: 23
+[2021-09-19 17:18:25 +0900] [24] [INFO] Booting worker with pid: 24
+[2021-09-19 17:18:25 +0900] [19] [INFO] Started server process [19]
+[2021-09-19 17:18:25 +0900] [19] [INFO] Waiting for application startup.
+[2021-09-19 17:18:25 +0900] [19] [INFO] Application startup complete.
+[2021-09-19 17:18:25 +0900] [17] [INFO] Started server process [17]
+[2021-09-19 17:18:25 +0900] [17] [INFO] Waiting for application startup.
+[2021-09-19 17:18:25 +0900] [17] [INFO] Application startup complete.
+[2021-09-19 17:18:25 +0900] [18] [INFO] Started server process [18]
+[2021-09-19 17:18:25 +0900] [18] [INFO] Waiting for application startup.
+[2021-09-19 17:18:25 +0900] [18] [INFO] Application startup complete.
+[2021-09-19 17:18:25 +0900] [20] [INFO] Started server process [20]
+[2021-09-19 17:18:25 +0900] [20] [INFO] Waiting for application startup.
+[2021-09-19 17:18:25 +0900] [20] [INFO] Application startup complete.
+[2021-09-19 17:18:25 +0900] [24] [INFO] Started server process [24]
+[2021-09-19 17:18:25 +0900] [24] [INFO] Waiting for application startup.
+[2021-09-19 17:18:25 +0900] [24] [INFO] Application startup complete.
+[2021-09-19 17:18:25 +0900] [23] [INFO] Started server process [23]
+[2021-09-19 17:18:25 +0900] [23] [INFO] Waiting for application startup.
+[2021-09-19 17:18:25 +0900] [23] [INFO] Application startup complete.
+[2021-09-19 17:18:25 +0900] [22] [INFO] Started server process [22]
+[2021-09-19 17:18:25 +0900] [22] [INFO] Waiting for application startup.
+[2021-09-19 17:18:25 +0900] [22] [INFO] Application startup complete.
+[2021-09-19 17:18:27 +0900] [23] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 17:18:30 +0900] [22] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 17:18:32 +0900] [23] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 17:18:41 +0900] [22] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 17:19:58 +0900] [23] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 17:20:34 +0900] [17] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:20:34 +0900] [18] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:20:34 +0900] [19] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:20:35 +0900] [20] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:20:35 +0900] [24] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:20:35 +0900] [23] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:20:35 +0900] [22] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:20:35 +0900] [14] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:20:35 +0900] [15] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:21:00 +0900] [22] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    return True
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 17:21:11 +0900] [1] [INFO] Handling signal: term
+[2021-09-19 17:21:12 +0900] [15] [INFO] Shutting down
+[2021-09-19 17:21:12 +0900] [15] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:21:12 +0900] [17] [INFO] Shutting down
+[2021-09-19 17:21:12 +0900] [18] [INFO] Shutting down
+[2021-09-19 17:21:12 +0900] [17] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:21:12 +0900] [20] [INFO] Shutting down
+[2021-09-19 17:21:12 +0900] [18] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:21:12 +0900] [20] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:21:12 +0900] [24] [INFO] Shutting down
+[2021-09-19 17:21:12 +0900] [24] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:21:12 +0900] [23] [INFO] Shutting down
+[2021-09-19 17:21:12 +0900] [23] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:21:12 +0900] [22] [INFO] Shutting down
+[2021-09-19 17:21:12 +0900] [22] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:21:12 +0900] [14] [INFO] Shutting down
+[2021-09-19 17:21:12 +0900] [14] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:21:12 +0900] [19] [INFO] Shutting down
+[2021-09-19 17:21:12 +0900] [19] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:21:12 +0900] [15] [INFO] Waiting for application shutdown.
+[2021-09-19 17:21:12 +0900] [15] [INFO] Application shutdown complete.
+[2021-09-19 17:21:12 +0900] [17] [INFO] Waiting for application shutdown.
+[2021-09-19 17:21:12 +0900] [15] [INFO] Finished server process [15]
+[2021-09-19 17:21:12 +0900] [18] [INFO] Waiting for application shutdown.
+[2021-09-19 17:21:12 +0900] [17] [INFO] Application shutdown complete.
+[2021-09-19 17:21:12 +0900] [15] [INFO] Worker exiting (pid: 15)
+[2021-09-19 17:21:12 +0900] [17] [INFO] Finished server process [17]
+[2021-09-19 17:21:12 +0900] [18] [INFO] Application shutdown complete.
+[2021-09-19 17:21:12 +0900] [18] [INFO] Finished server process [18]
+[2021-09-19 17:21:12 +0900] [17] [INFO] Worker exiting (pid: 17)
+[2021-09-19 17:21:12 +0900] [18] [INFO] Worker exiting (pid: 18)
+[2021-09-19 17:21:12 +0900] [23] [INFO] Waiting for application shutdown.
+[2021-09-19 17:21:12 +0900] [23] [INFO] Application shutdown complete.
+[2021-09-19 17:21:12 +0900] [23] [INFO] Finished server process [23]
+[2021-09-19 17:21:12 +0900] [23] [INFO] Worker exiting (pid: 23)
+[2021-09-19 17:21:12 +0900] [24] [INFO] Waiting for application shutdown.
+[2021-09-19 17:21:12 +0900] [24] [INFO] Application shutdown complete.
+[2021-09-19 17:21:12 +0900] [24] [INFO] Finished server process [24]
+[2021-09-19 17:21:12 +0900] [24] [INFO] Worker exiting (pid: 24)
+[2021-09-19 17:21:12 +0900] [20] [INFO] Waiting for application shutdown.
+[2021-09-19 17:21:12 +0900] [20] [INFO] Application shutdown complete.
+[2021-09-19 17:21:12 +0900] [20] [INFO] Finished server process [20]
+[2021-09-19 17:21:12 +0900] [20] [INFO] Worker exiting (pid: 20)
+[2021-09-19 17:21:12 +0900] [22] [INFO] Waiting for application shutdown.
+[2021-09-19 17:21:12 +0900] [22] [INFO] Application shutdown complete.
+[2021-09-19 17:21:12 +0900] [22] [INFO] Finished server process [22]
+[2021-09-19 17:21:12 +0900] [22] [INFO] Worker exiting (pid: 22)
+[2021-09-19 17:21:12 +0900] [14] [INFO] Waiting for application shutdown.
+[2021-09-19 17:21:12 +0900] [14] [INFO] Application shutdown complete.
+[2021-09-19 17:21:12 +0900] [14] [INFO] Finished server process [14]
+[2021-09-19 17:21:12 +0900] [14] [INFO] Worker exiting (pid: 14)
+[2021-09-19 17:21:12 +0900] [19] [INFO] Waiting for application shutdown.
+[2021-09-19 17:21:12 +0900] [19] [INFO] Application shutdown complete.
+[2021-09-19 17:21:12 +0900] [19] [INFO] Finished server process [19]
+[2021-09-19 17:21:12 +0900] [19] [INFO] Worker exiting (pid: 19)
+[2021-09-19 17:21:12 +0900] [1] [INFO] Shutting down: Master
+[2021-09-19 17:21:15 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 17:21:15 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 17:21:15 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 17:21:15 +0900] [14] [INFO] Booting worker with pid: 14
+[2021-09-19 17:21:15 +0900] [15] [INFO] Booting worker with pid: 15
+[2021-09-19 17:21:15 +0900] [16] [INFO] Booting worker with pid: 16
+[2021-09-19 17:21:15 +0900] [14] [INFO] Started server process [14]
+[2021-09-19 17:21:15 +0900] [14] [INFO] Waiting for application startup.
+[2021-09-19 17:21:15 +0900] [14] [INFO] Application startup complete.
+[2021-09-19 17:21:15 +0900] [18] [INFO] Booting worker with pid: 18
+[2021-09-19 17:21:15 +0900] [15] [INFO] Started server process [15]
+[2021-09-19 17:21:15 +0900] [15] [INFO] Waiting for application startup.
+[2021-09-19 17:21:15 +0900] [15] [INFO] Application startup complete.
+[2021-09-19 17:21:15 +0900] [16] [INFO] Started server process [16]
+[2021-09-19 17:21:15 +0900] [16] [INFO] Waiting for application startup.
+[2021-09-19 17:21:15 +0900] [16] [INFO] Application startup complete.
+[2021-09-19 17:21:15 +0900] [21] [INFO] Booting worker with pid: 21
+[2021-09-19 17:21:15 +0900] [23] [INFO] Booting worker with pid: 23
+[2021-09-19 17:21:15 +0900] [18] [INFO] Started server process [18]
+[2021-09-19 17:21:15 +0900] [18] [INFO] Waiting for application startup.
+[2021-09-19 17:21:15 +0900] [18] [INFO] Application startup complete.
+[2021-09-19 17:21:15 +0900] [24] [INFO] Booting worker with pid: 24
+[2021-09-19 17:21:15 +0900] [21] [INFO] Started server process [21]
+[2021-09-19 17:21:15 +0900] [21] [INFO] Waiting for application startup.
+[2021-09-19 17:21:15 +0900] [21] [INFO] Application startup complete.
+[2021-09-19 17:21:16 +0900] [23] [INFO] Started server process [23]
+[2021-09-19 17:21:16 +0900] [23] [INFO] Waiting for application startup.
+[2021-09-19 17:21:16 +0900] [23] [INFO] Application startup complete.
+[2021-09-19 17:21:16 +0900] [27] [INFO] Booting worker with pid: 27
+[2021-09-19 17:21:16 +0900] [28] [INFO] Booting worker with pid: 28
+[2021-09-19 17:21:16 +0900] [24] [INFO] Started server process [24]
+[2021-09-19 17:21:16 +0900] [24] [INFO] Waiting for application startup.
+[2021-09-19 17:21:16 +0900] [24] [INFO] Application startup complete.
+[2021-09-19 17:21:16 +0900] [27] [INFO] Started server process [27]
+[2021-09-19 17:21:16 +0900] [27] [INFO] Waiting for application startup.
+[2021-09-19 17:21:16 +0900] [27] [INFO] Application startup complete.
+[2021-09-19 17:21:16 +0900] [28] [INFO] Started server process [28]
+[2021-09-19 17:21:16 +0900] [28] [INFO] Waiting for application startup.
+[2021-09-19 17:21:16 +0900] [28] [INFO] Application startup complete.
+[2021-09-19 17:21:19 +0900] [27] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 17:21:35 +0900] [21] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 17:21:46 +0900] [21] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 17:25:09 +0900] [1] [INFO] Handling signal: term
+[2021-09-19 17:25:09 +0900] [23] [INFO] Shutting down
+[2021-09-19 17:25:09 +0900] [23] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:25:09 +0900] [14] [INFO] Shutting down
+[2021-09-19 17:25:09 +0900] [14] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:25:09 +0900] [21] [INFO] Shutting down
+[2021-09-19 17:25:09 +0900] [15] [INFO] Shutting down
+[2021-09-19 17:25:09 +0900] [21] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:25:09 +0900] [15] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:25:09 +0900] [28] [INFO] Shutting down
+[2021-09-19 17:25:09 +0900] [28] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:25:09 +0900] [24] [INFO] Shutting down
+[2021-09-19 17:25:09 +0900] [24] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:25:09 +0900] [27] [INFO] Shutting down
+[2021-09-19 17:25:09 +0900] [27] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:25:09 +0900] [16] [INFO] Shutting down
+[2021-09-19 17:25:09 +0900] [18] [INFO] Shutting down
+[2021-09-19 17:25:09 +0900] [16] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:25:09 +0900] [18] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:25:09 +0900] [23] [INFO] Waiting for application shutdown.
+[2021-09-19 17:25:09 +0900] [23] [INFO] Application shutdown complete.
+[2021-09-19 17:25:09 +0900] [23] [INFO] Finished server process [23]
+[2021-09-19 17:25:09 +0900] [23] [INFO] Worker exiting (pid: 23)
+[2021-09-19 17:25:09 +0900] [14] [INFO] Waiting for application shutdown.
+[2021-09-19 17:25:09 +0900] [14] [INFO] Application shutdown complete.
+[2021-09-19 17:25:09 +0900] [14] [INFO] Finished server process [14]
+[2021-09-19 17:25:09 +0900] [14] [INFO] Worker exiting (pid: 14)
+[2021-09-19 17:25:09 +0900] [21] [INFO] Waiting for application shutdown.
+[2021-09-19 17:25:09 +0900] [21] [INFO] Application shutdown complete.
+[2021-09-19 17:25:09 +0900] [21] [INFO] Finished server process [21]
+[2021-09-19 17:25:09 +0900] [21] [INFO] Worker exiting (pid: 21)
+[2021-09-19 17:25:09 +0900] [15] [INFO] Waiting for application shutdown.
+[2021-09-19 17:25:09 +0900] [15] [INFO] Application shutdown complete.
+[2021-09-19 17:25:09 +0900] [15] [INFO] Finished server process [15]
+[2021-09-19 17:25:09 +0900] [15] [INFO] Worker exiting (pid: 15)
+[2021-09-19 17:25:09 +0900] [28] [INFO] Waiting for application shutdown.
+[2021-09-19 17:25:09 +0900] [28] [INFO] Application shutdown complete.
+[2021-09-19 17:25:09 +0900] [28] [INFO] Finished server process [28]
+[2021-09-19 17:25:09 +0900] [28] [INFO] Worker exiting (pid: 28)
+[2021-09-19 17:25:09 +0900] [24] [INFO] Waiting for application shutdown.
+[2021-09-19 17:25:09 +0900] [24] [INFO] Application shutdown complete.
+[2021-09-19 17:25:09 +0900] [24] [INFO] Finished server process [24]
+[2021-09-19 17:25:09 +0900] [24] [INFO] Worker exiting (pid: 24)
+[2021-09-19 17:25:09 +0900] [27] [INFO] Waiting for application shutdown.
+[2021-09-19 17:25:09 +0900] [27] [INFO] Application shutdown complete.
+[2021-09-19 17:25:09 +0900] [27] [INFO] Finished server process [27]
+[2021-09-19 17:25:09 +0900] [27] [INFO] Worker exiting (pid: 27)
+[2021-09-19 17:25:09 +0900] [16] [INFO] Waiting for application shutdown.
+[2021-09-19 17:25:09 +0900] [16] [INFO] Application shutdown complete.
+[2021-09-19 17:25:09 +0900] [16] [INFO] Finished server process [16]
+[2021-09-19 17:25:09 +0900] [16] [INFO] Worker exiting (pid: 16)
+[2021-09-19 17:25:09 +0900] [18] [INFO] Waiting for application shutdown.
+[2021-09-19 17:25:09 +0900] [18] [INFO] Application shutdown complete.
+[2021-09-19 17:25:09 +0900] [18] [INFO] Finished server process [18]
+[2021-09-19 17:25:09 +0900] [18] [INFO] Worker exiting (pid: 18)
+[2021-09-19 17:25:09 +0900] [1] [INFO] Shutting down: Master
+[2021-09-19 17:29:01 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 17:29:01 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 17:29:01 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 17:29:01 +0900] [12] [INFO] Booting worker with pid: 12
+[2021-09-19 17:29:01 +0900] [13] [INFO] Booting worker with pid: 13
+[2021-09-19 17:29:01 +0900] [14] [INFO] Booting worker with pid: 14
+[2021-09-19 17:29:01 +0900] [15] [INFO] Booting worker with pid: 15
+[2021-09-19 17:29:01 +0900] [16] [INFO] Booting worker with pid: 16
+[2021-09-19 17:29:01 +0900] [17] [INFO] Booting worker with pid: 17
+[2021-09-19 17:29:01 +0900] [18] [INFO] Booting worker with pid: 18
+[2021-09-19 17:29:01 +0900] [19] [INFO] Booting worker with pid: 19
+[2021-09-19 17:29:01 +0900] [20] [INFO] Booting worker with pid: 20
+[2021-09-19 17:29:02 +0900] [13] [INFO] Started server process [13]
+[2021-09-19 17:29:02 +0900] [13] [INFO] Waiting for application startup.
+[2021-09-19 17:29:02 +0900] [13] [INFO] Application startup complete.
+[2021-09-19 17:29:02 +0900] [12] [INFO] Started server process [12]
+[2021-09-19 17:29:02 +0900] [12] [INFO] Waiting for application startup.
+[2021-09-19 17:29:02 +0900] [12] [INFO] Application startup complete.
+[2021-09-19 17:29:02 +0900] [16] [INFO] Started server process [16]
+[2021-09-19 17:29:02 +0900] [16] [INFO] Waiting for application startup.
+[2021-09-19 17:29:02 +0900] [16] [INFO] Application startup complete.
+[2021-09-19 17:29:02 +0900] [14] [INFO] Started server process [14]
+[2021-09-19 17:29:02 +0900] [14] [INFO] Waiting for application startup.
+[2021-09-19 17:29:02 +0900] [14] [INFO] Application startup complete.
+[2021-09-19 17:29:02 +0900] [17] [INFO] Started server process [17]
+[2021-09-19 17:29:02 +0900] [17] [INFO] Waiting for application startup.
+[2021-09-19 17:29:02 +0900] [17] [INFO] Application startup complete.
+[2021-09-19 17:29:02 +0900] [19] [INFO] Started server process [19]
+[2021-09-19 17:29:02 +0900] [19] [INFO] Waiting for application startup.
+[2021-09-19 17:29:02 +0900] [19] [INFO] Application startup complete.
+[2021-09-19 17:29:02 +0900] [18] [INFO] Started server process [18]
+[2021-09-19 17:29:02 +0900] [18] [INFO] Waiting for application startup.
+[2021-09-19 17:29:02 +0900] [18] [INFO] Application startup complete.
+[2021-09-19 17:29:02 +0900] [15] [INFO] Started server process [15]
+[2021-09-19 17:29:02 +0900] [15] [INFO] Waiting for application startup.
+[2021-09-19 17:29:02 +0900] [15] [INFO] Application startup complete.
+[2021-09-19 17:29:02 +0900] [20] [INFO] Started server process [20]
+[2021-09-19 17:29:02 +0900] [20] [INFO] Waiting for application startup.
+[2021-09-19 17:29:02 +0900] [20] [INFO] Application startup complete.
+[2021-09-19 17:40:11 +0900] [13] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:40:11 +0900] [12] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:40:11 +0900] [14] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:40:11 +0900] [16] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:40:12 +0900] [17] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:40:12 +0900] [18] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:40:12 +0900] [15] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:40:12 +0900] [19] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:40:12 +0900] [20] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 17:40:20 +0900] [1] [INFO] Handling signal: term
+[2021-09-19 17:40:20 +0900] [16] [INFO] Shutting down
+[2021-09-19 17:40:20 +0900] [16] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:40:20 +0900] [19] [INFO] Shutting down
+[2021-09-19 17:40:20 +0900] [19] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:40:20 +0900] [12] [INFO] Shutting down
+[2021-09-19 17:40:20 +0900] [12] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:40:20 +0900] [14] [INFO] Shutting down
+[2021-09-19 17:40:20 +0900] [14] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:40:20 +0900] [15] [INFO] Shutting down
+[2021-09-19 17:40:20 +0900] [15] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:40:20 +0900] [20] [INFO] Shutting down
+[2021-09-19 17:40:20 +0900] [20] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:40:20 +0900] [17] [INFO] Shutting down
+[2021-09-19 17:40:20 +0900] [17] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:40:20 +0900] [13] [INFO] Shutting down
+[2021-09-19 17:40:20 +0900] [13] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:40:20 +0900] [19] [INFO] Waiting for application shutdown.
+[2021-09-19 17:40:20 +0900] [19] [INFO] Application shutdown complete.
+[2021-09-19 17:40:20 +0900] [19] [INFO] Finished server process [19]
+[2021-09-19 17:40:20 +0900] [16] [INFO] Waiting for application shutdown.
+[2021-09-19 17:40:20 +0900] [16] [INFO] Application shutdown complete.
+[2021-09-19 17:40:20 +0900] [16] [INFO] Finished server process [16]
+[2021-09-19 17:40:20 +0900] [18] [INFO] Shutting down
+[2021-09-19 17:40:20 +0900] [18] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 17:40:20 +0900] [12] [INFO] Waiting for application shutdown.
+[2021-09-19 17:40:20 +0900] [12] [INFO] Application shutdown complete.
+[2021-09-19 17:40:20 +0900] [12] [INFO] Finished server process [12]
+[2021-09-19 17:40:20 +0900] [14] [INFO] Waiting for application shutdown.
+[2021-09-19 17:40:20 +0900] [14] [INFO] Application shutdown complete.
+[2021-09-19 17:40:20 +0900] [14] [INFO] Finished server process [14]
+[2021-09-19 17:40:20 +0900] [14] [INFO] Worker exiting (pid: 14)
+[2021-09-19 17:40:20 +0900] [19] [INFO] Worker exiting (pid: 19)
+[2021-09-19 17:40:20 +0900] [16] [INFO] Worker exiting (pid: 16)
+[2021-09-19 17:40:20 +0900] [15] [INFO] Waiting for application shutdown.
+[2021-09-19 17:40:20 +0900] [15] [INFO] Application shutdown complete.
+[2021-09-19 17:40:20 +0900] [15] [INFO] Finished server process [15]
+[2021-09-19 17:40:20 +0900] [15] [INFO] Worker exiting (pid: 15)
+[2021-09-19 17:40:20 +0900] [12] [INFO] Worker exiting (pid: 12)
+[2021-09-19 17:40:20 +0900] [20] [INFO] Waiting for application shutdown.
+[2021-09-19 17:40:20 +0900] [20] [INFO] Application shutdown complete.
+[2021-09-19 17:40:20 +0900] [20] [INFO] Finished server process [20]
+[2021-09-19 17:40:20 +0900] [20] [INFO] Worker exiting (pid: 20)
+[2021-09-19 17:40:20 +0900] [17] [INFO] Waiting for application shutdown.
+[2021-09-19 17:40:20 +0900] [17] [INFO] Application shutdown complete.
+[2021-09-19 17:40:20 +0900] [17] [INFO] Finished server process [17]
+[2021-09-19 17:40:20 +0900] [17] [INFO] Worker exiting (pid: 17)
+[2021-09-19 17:40:21 +0900] [18] [INFO] Waiting for application shutdown.
+[2021-09-19 17:40:21 +0900] [18] [INFO] Application shutdown complete.
+[2021-09-19 17:40:21 +0900] [18] [INFO] Finished server process [18]
+[2021-09-19 17:40:21 +0900] [18] [INFO] Worker exiting (pid: 18)
+[2021-09-19 17:40:21 +0900] [13] [INFO] Waiting for application shutdown.
+[2021-09-19 17:40:21 +0900] [13] [INFO] Application shutdown complete.
+[2021-09-19 17:40:21 +0900] [13] [INFO] Finished server process [13]
+[2021-09-19 17:40:21 +0900] [13] [INFO] Worker exiting (pid: 13)
+[2021-09-19 17:40:21 +0900] [1] [INFO] Shutting down: Master
+[2021-09-19 17:40:58 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 17:40:58 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 17:40:58 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 17:40:58 +0900] [14] [INFO] Booting worker with pid: 14
+[2021-09-19 17:40:58 +0900] [15] [INFO] Booting worker with pid: 15
+[2021-09-19 17:40:58 +0900] [16] [INFO] Booting worker with pid: 16
+[2021-09-19 17:40:58 +0900] [17] [INFO] Booting worker with pid: 17
+[2021-09-19 17:40:58 +0900] [18] [INFO] Booting worker with pid: 18
+[2021-09-19 17:40:59 +0900] [19] [INFO] Booting worker with pid: 19
+[2021-09-19 17:40:59 +0900] [20] [INFO] Booting worker with pid: 20
+[2021-09-19 17:40:59 +0900] [21] [INFO] Booting worker with pid: 21
+[2021-09-19 17:40:59 +0900] [22] [INFO] Booting worker with pid: 22
+[2021-09-19 17:40:59 +0900] [17] [INFO] Started server process [17]
+[2021-09-19 17:40:59 +0900] [17] [INFO] Waiting for application startup.
+[2021-09-19 17:40:59 +0900] [17] [INFO] Application startup complete.
+[2021-09-19 17:40:59 +0900] [15] [INFO] Started server process [15]
+[2021-09-19 17:40:59 +0900] [15] [INFO] Waiting for application startup.
+[2021-09-19 17:40:59 +0900] [15] [INFO] Application startup complete.
+[2021-09-19 17:40:59 +0900] [16] [INFO] Started server process [16]
+[2021-09-19 17:40:59 +0900] [16] [INFO] Waiting for application startup.
+[2021-09-19 17:40:59 +0900] [16] [INFO] Application startup complete.
+[2021-09-19 17:40:59 +0900] [14] [INFO] Started server process [14]
+[2021-09-19 17:40:59 +0900] [14] [INFO] Waiting for application startup.
+[2021-09-19 17:40:59 +0900] [14] [INFO] Application startup complete.
+[2021-09-19 17:40:59 +0900] [18] [INFO] Started server process [18]
+[2021-09-19 17:40:59 +0900] [18] [INFO] Waiting for application startup.
+[2021-09-19 17:40:59 +0900] [18] [INFO] Application startup complete.
+[2021-09-19 17:40:59 +0900] [21] [INFO] Started server process [21]
+[2021-09-19 17:40:59 +0900] [21] [INFO] Waiting for application startup.
+[2021-09-19 17:40:59 +0900] [21] [INFO] Application startup complete.
+[2021-09-19 17:40:59 +0900] [22] [INFO] Started server process [22]
+[2021-09-19 17:40:59 +0900] [22] [INFO] Waiting for application startup.
+[2021-09-19 17:40:59 +0900] [22] [INFO] Application startup complete.
+[2021-09-19 17:40:59 +0900] [19] [INFO] Started server process [19]
+[2021-09-19 17:40:59 +0900] [19] [INFO] Waiting for application startup.
+[2021-09-19 17:40:59 +0900] [19] [INFO] Application startup complete.
+[2021-09-19 17:40:59 +0900] [20] [INFO] Started server process [20]
+[2021-09-19 17:40:59 +0900] [20] [INFO] Waiting for application startup.
+[2021-09-19 17:40:59 +0900] [20] [INFO] Application startup complete.
+[2021-09-19 18:51:04 +0900] [1] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2021-09-19 18:51:04 +0900] [1] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2021-09-19 18:51:04 +0900] [1] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2021-09-19 18:51:04 +0900] [1] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2021-09-19 18:51:04 +0900] [1] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2021-09-19 18:51:04 +0900] [1] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2021-09-19 18:51:04 +0900] [1] [CRITICAL] WORKER TIMEOUT (pid:21)
+[2021-09-19 18:51:04 +0900] [1] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2021-09-19 18:51:05 +0900] [32] [INFO] Booting worker with pid: 32
+[2021-09-19 18:51:05 +0900] [33] [INFO] Booting worker with pid: 33
+[2021-09-19 18:51:05 +0900] [34] [INFO] Booting worker with pid: 34
+[2021-09-19 18:51:05 +0900] [35] [INFO] Booting worker with pid: 35
+[2021-09-19 18:51:05 +0900] [32] [INFO] Started server process [32]
+[2021-09-19 18:51:05 +0900] [32] [INFO] Waiting for application startup.
+[2021-09-19 18:51:05 +0900] [32] [INFO] Application startup complete.
+[2021-09-19 18:51:05 +0900] [38] [INFO] Booting worker with pid: 38
+[2021-09-19 18:51:05 +0900] [36] [INFO] Booting worker with pid: 36
+[2021-09-19 18:51:05 +0900] [33] [INFO] Started server process [33]
+[2021-09-19 18:51:05 +0900] [33] [INFO] Waiting for application startup.
+[2021-09-19 18:51:05 +0900] [33] [INFO] Application startup complete.
+[2021-09-19 18:51:05 +0900] [40] [INFO] Booting worker with pid: 40
+[2021-09-19 18:51:05 +0900] [41] [INFO] Booting worker with pid: 41
+[2021-09-19 18:51:05 +0900] [38] [INFO] Started server process [38]
+[2021-09-19 18:51:05 +0900] [38] [INFO] Waiting for application startup.
+[2021-09-19 18:51:05 +0900] [38] [INFO] Application startup complete.
+[2021-09-19 18:51:05 +0900] [34] [INFO] Started server process [34]
+[2021-09-19 18:51:05 +0900] [34] [INFO] Waiting for application startup.
+[2021-09-19 18:51:05 +0900] [34] [INFO] Application startup complete.
+[2021-09-19 18:51:05 +0900] [35] [INFO] Started server process [35]
+[2021-09-19 18:51:05 +0900] [35] [INFO] Waiting for application startup.
+[2021-09-19 18:51:05 +0900] [35] [INFO] Application startup complete.
+[2021-09-19 18:51:05 +0900] [40] [INFO] Started server process [40]
+[2021-09-19 18:51:05 +0900] [40] [INFO] Waiting for application startup.
+[2021-09-19 18:51:05 +0900] [40] [INFO] Application startup complete.
+[2021-09-19 18:51:05 +0900] [36] [INFO] Started server process [36]
+[2021-09-19 18:51:05 +0900] [36] [INFO] Waiting for application startup.
+[2021-09-19 18:51:05 +0900] [36] [INFO] Application startup complete.
+[2021-09-19 18:51:05 +0900] [41] [INFO] Started server process [41]
+[2021-09-19 18:51:05 +0900] [41] [INFO] Waiting for application startup.
+[2021-09-19 18:51:05 +0900] [41] [INFO] Application startup complete.
+[2021-09-19 19:05:51 +0900] [33] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:05:51 +0900] [32] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:05:51 +0900] [35] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:05:51 +0900] [34] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:05:51 +0900] [38] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:05:51 +0900] [41] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:05:51 +0900] [36] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:05:51 +0900] [40] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:05:51 +0900] [20] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:15:32 +0900] [41] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:15:52 +0900] [41] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:16:12 +0900] [41] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:22:00 +0900] [41] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:22:50 +0900] [36] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:23:00 +0900] [40] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:23:44 +0900] [1] [INFO] Handling signal: term
+[2021-09-19 19:23:44 +0900] [35] [INFO] Shutting down
+[2021-09-19 19:23:44 +0900] [33] [INFO] Shutting down
+[2021-09-19 19:23:44 +0900] [36] [INFO] Shutting down
+[2021-09-19 19:23:44 +0900] [20] [INFO] Shutting down
+[2021-09-19 19:23:44 +0900] [35] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:23:44 +0900] [33] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:23:44 +0900] [36] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:23:44 +0900] [20] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:23:44 +0900] [34] [INFO] Shutting down
+[2021-09-19 19:23:44 +0900] [34] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:23:44 +0900] [40] [INFO] Shutting down
+[2021-09-19 19:23:44 +0900] [40] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:23:44 +0900] [38] [INFO] Shutting down
+[2021-09-19 19:23:44 +0900] [38] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:23:44 +0900] [32] [INFO] Shutting down
+[2021-09-19 19:23:44 +0900] [32] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:23:44 +0900] [41] [INFO] Shutting down
+[2021-09-19 19:23:44 +0900] [41] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:23:44 +0900] [33] [INFO] Waiting for application shutdown.
+[2021-09-19 19:23:44 +0900] [20] [INFO] Waiting for application shutdown.
+[2021-09-19 19:23:44 +0900] [35] [INFO] Waiting for application shutdown.
+[2021-09-19 19:23:44 +0900] [34] [INFO] Waiting for application shutdown.
+[2021-09-19 19:23:44 +0900] [20] [INFO] Application shutdown complete.
+[2021-09-19 19:23:44 +0900] [33] [INFO] Application shutdown complete.
+[2021-09-19 19:23:44 +0900] [35] [INFO] Application shutdown complete.
+[2021-09-19 19:23:44 +0900] [33] [INFO] Finished server process [33]
+[2021-09-19 19:23:44 +0900] [20] [INFO] Finished server process [20]
+[2021-09-19 19:23:44 +0900] [34] [INFO] Application shutdown complete.
+[2021-09-19 19:23:44 +0900] [35] [INFO] Finished server process [35]
+[2021-09-19 19:23:44 +0900] [34] [INFO] Finished server process [34]
+[2021-09-19 19:23:44 +0900] [20] [INFO] Worker exiting (pid: 20)
+[2021-09-19 19:23:44 +0900] [33] [INFO] Worker exiting (pid: 33)
+[2021-09-19 19:23:44 +0900] [35] [INFO] Worker exiting (pid: 35)
+[2021-09-19 19:23:44 +0900] [34] [INFO] Worker exiting (pid: 34)
+[2021-09-19 19:23:44 +0900] [36] [INFO] Waiting for application shutdown.
+[2021-09-19 19:23:44 +0900] [36] [INFO] Application shutdown complete.
+[2021-09-19 19:23:44 +0900] [36] [INFO] Finished server process [36]
+[2021-09-19 19:23:44 +0900] [36] [INFO] Worker exiting (pid: 36)
+[2021-09-19 19:23:44 +0900] [40] [INFO] Waiting for application shutdown.
+[2021-09-19 19:23:44 +0900] [40] [INFO] Application shutdown complete.
+[2021-09-19 19:23:44 +0900] [40] [INFO] Finished server process [40]
+[2021-09-19 19:23:44 +0900] [40] [INFO] Worker exiting (pid: 40)
+[2021-09-19 19:23:44 +0900] [38] [INFO] Waiting for application shutdown.
+[2021-09-19 19:23:44 +0900] [38] [INFO] Application shutdown complete.
+[2021-09-19 19:23:44 +0900] [38] [INFO] Finished server process [38]
+[2021-09-19 19:23:44 +0900] [38] [INFO] Worker exiting (pid: 38)
+[2021-09-19 19:23:44 +0900] [32] [INFO] Waiting for application shutdown.
+[2021-09-19 19:23:44 +0900] [32] [INFO] Application shutdown complete.
+[2021-09-19 19:23:44 +0900] [32] [INFO] Finished server process [32]
+[2021-09-19 19:23:44 +0900] [32] [INFO] Worker exiting (pid: 32)
+[2021-09-19 19:23:45 +0900] [41] [INFO] Waiting for application shutdown.
+[2021-09-19 19:23:45 +0900] [41] [INFO] Application shutdown complete.
+[2021-09-19 19:23:45 +0900] [41] [INFO] Finished server process [41]
+[2021-09-19 19:23:45 +0900] [41] [INFO] Worker exiting (pid: 41)
+[2021-09-19 19:23:45 +0900] [1] [INFO] Shutting down: Master
+[2021-09-19 19:23:46 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 19:23:46 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 19:23:46 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 19:23:46 +0900] [13] [INFO] Booting worker with pid: 13
+[2021-09-19 19:23:46 +0900] [14] [INFO] Booting worker with pid: 14
+[2021-09-19 19:23:46 +0900] [15] [INFO] Booting worker with pid: 15
+[2021-09-19 19:23:46 +0900] [17] [INFO] Booting worker with pid: 17
+[2021-09-19 19:23:46 +0900] [13] [INFO] Started server process [13]
+[2021-09-19 19:23:46 +0900] [13] [INFO] Waiting for application startup.
+[2021-09-19 19:23:46 +0900] [13] [INFO] Application startup complete.
+[2021-09-19 19:23:46 +0900] [14] [INFO] Started server process [14]
+[2021-09-19 19:23:46 +0900] [14] [INFO] Waiting for application startup.
+[2021-09-19 19:23:46 +0900] [14] [INFO] Application startup complete.
+[2021-09-19 19:23:46 +0900] [19] [INFO] Booting worker with pid: 19
+[2021-09-19 19:23:46 +0900] [20] [INFO] Booting worker with pid: 20
+[2021-09-19 19:23:46 +0900] [21] [INFO] Booting worker with pid: 21
+[2021-09-19 19:23:46 +0900] [15] [INFO] Started server process [15]
+[2021-09-19 19:23:46 +0900] [15] [INFO] Waiting for application startup.
+[2021-09-19 19:23:46 +0900] [15] [INFO] Application startup complete.
+[2021-09-19 19:23:46 +0900] [24] [INFO] Booting worker with pid: 24
+[2021-09-19 19:23:47 +0900] [17] [INFO] Started server process [17]
+[2021-09-19 19:23:47 +0900] [17] [INFO] Waiting for application startup.
+[2021-09-19 19:23:47 +0900] [17] [INFO] Application startup complete.
+[2021-09-19 19:23:47 +0900] [25] [INFO] Booting worker with pid: 25
+[2021-09-19 19:23:47 +0900] [19] [INFO] Started server process [19]
+[2021-09-19 19:23:47 +0900] [19] [INFO] Waiting for application startup.
+[2021-09-19 19:23:47 +0900] [19] [INFO] Application startup complete.
+[2021-09-19 19:23:47 +0900] [20] [INFO] Started server process [20]
+[2021-09-19 19:23:47 +0900] [20] [INFO] Waiting for application startup.
+[2021-09-19 19:23:47 +0900] [20] [INFO] Application startup complete.
+[2021-09-19 19:23:47 +0900] [21] [INFO] Started server process [21]
+[2021-09-19 19:23:47 +0900] [21] [INFO] Waiting for application startup.
+[2021-09-19 19:23:47 +0900] [21] [INFO] Application startup complete.
+[2021-09-19 19:23:47 +0900] [24] [INFO] Started server process [24]
+[2021-09-19 19:23:47 +0900] [24] [INFO] Waiting for application startup.
+[2021-09-19 19:23:47 +0900] [24] [INFO] Application startup complete.
+[2021-09-19 19:23:47 +0900] [25] [INFO] Started server process [25]
+[2021-09-19 19:23:47 +0900] [25] [INFO] Waiting for application startup.
+[2021-09-19 19:23:47 +0900] [25] [INFO] Application startup complete.
+[2021-09-19 19:23:54 +0900] [13] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:23:54 +0900] [14] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:23:54 +0900] [15] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:23:55 +0900] [17] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:23:55 +0900] [19] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:23:55 +0900] [20] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:23:55 +0900] [21] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:23:55 +0900] [24] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:23:55 +0900] [25] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:25 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 19:25:25 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 19:25:25 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 19:25:25 +0900] [12] [INFO] Booting worker with pid: 12
+[2021-09-19 19:25:25 +0900] [13] [INFO] Booting worker with pid: 13
+[2021-09-19 19:25:25 +0900] [15] [INFO] Booting worker with pid: 15
+[2021-09-19 19:25:25 +0900] [12] [INFO] Started server process [12]
+[2021-09-19 19:25:25 +0900] [12] [INFO] Waiting for application startup.
+[2021-09-19 19:25:25 +0900] [12] [INFO] Application startup complete.
+[2021-09-19 19:25:25 +0900] [16] [INFO] Booting worker with pid: 16
+[2021-09-19 19:25:25 +0900] [17] [INFO] Booting worker with pid: 17
+[2021-09-19 19:25:25 +0900] [13] [INFO] Started server process [13]
+[2021-09-19 19:25:25 +0900] [13] [INFO] Waiting for application startup.
+[2021-09-19 19:25:25 +0900] [13] [INFO] Application startup complete.
+[2021-09-19 19:25:25 +0900] [19] [INFO] Booting worker with pid: 19
+[2021-09-19 19:25:25 +0900] [15] [INFO] Started server process [15]
+[2021-09-19 19:25:25 +0900] [15] [INFO] Waiting for application startup.
+[2021-09-19 19:25:25 +0900] [15] [INFO] Application startup complete.
+[2021-09-19 19:25:25 +0900] [16] [INFO] Started server process [16]
+[2021-09-19 19:25:25 +0900] [16] [INFO] Waiting for application startup.
+[2021-09-19 19:25:25 +0900] [16] [INFO] Application startup complete.
+[2021-09-19 19:25:25 +0900] [22] [INFO] Booting worker with pid: 22
+[2021-09-19 19:25:25 +0900] [23] [INFO] Booting worker with pid: 23
+[2021-09-19 19:25:25 +0900] [17] [INFO] Started server process [17]
+[2021-09-19 19:25:25 +0900] [17] [INFO] Waiting for application startup.
+[2021-09-19 19:25:25 +0900] [17] [INFO] Application startup complete.
+[2021-09-19 19:25:25 +0900] [25] [INFO] Booting worker with pid: 25
+[2021-09-19 19:25:25 +0900] [19] [INFO] Started server process [19]
+[2021-09-19 19:25:25 +0900] [19] [INFO] Waiting for application startup.
+[2021-09-19 19:25:25 +0900] [19] [INFO] Application startup complete.
+[2021-09-19 19:25:25 +0900] [22] [INFO] Started server process [22]
+[2021-09-19 19:25:25 +0900] [22] [INFO] Waiting for application startup.
+[2021-09-19 19:25:25 +0900] [22] [INFO] Application startup complete.
+[2021-09-19 19:25:25 +0900] [23] [INFO] Started server process [23]
+[2021-09-19 19:25:25 +0900] [23] [INFO] Waiting for application startup.
+[2021-09-19 19:25:25 +0900] [23] [INFO] Application startup complete.
+[2021-09-19 19:25:25 +0900] [25] [INFO] Started server process [25]
+[2021-09-19 19:25:25 +0900] [25] [INFO] Waiting for application startup.
+[2021-09-19 19:25:25 +0900] [25] [INFO] Application startup complete.
+[2021-09-19 19:25:35 +0900] [13] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    res = subprocess.call(f'inkscape -z {raw} --export-png={res}')
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:25:43 +0900] [15] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:43 +0900] [16] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:43 +0900] [17] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:43 +0900] [19] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:43 +0900] [22] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:43 +0900] [23] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:44 +0900] [25] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:44 +0900] [25] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    return True
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:25:44 +0900] [12] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:44 +0900] [13] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:25:48 +0900] [23] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    return True
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:25:49 +0900] [25] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:25:50 +0900] [25] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:25:50 +0900] [25] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:26:27 +0900] [25] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:26:28 +0900] [25] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:26:28 +0900] [23] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:26:29 +0900] [25] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:26:29 +0900] [22] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:26:29 +0900] [23] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:26:29 +0900] [16] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:26:29 +0900] [25] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:26:30 +0900] [25] [ERROR] Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 398, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/fastapi/routing.py", line 150, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/root/.local/share/virtualenvs/fastapi_sample-MFXaE4_i/lib/python3.8/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/local/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/src/fastapi_sample/backend/main.py", line 11, in svg_to_png
+    fw.write(file)
+  File "/usr/local/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'inkscape -z raw.svg --export-png=res.png'
+[2021-09-19 19:28:22 +0900] [1] [INFO] Handling signal: term
+[2021-09-19 19:28:22 +0900] [19] [INFO] Shutting down
+[2021-09-19 19:28:22 +0900] [19] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:28:22 +0900] [25] [INFO] Shutting down
+[2021-09-19 19:28:22 +0900] [25] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:28:22 +0900] [17] [INFO] Shutting down
+[2021-09-19 19:28:22 +0900] [22] [INFO] Shutting down
+[2021-09-19 19:28:22 +0900] [23] [INFO] Shutting down
+[2021-09-19 19:28:22 +0900] [17] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:28:22 +0900] [22] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:28:22 +0900] [23] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:28:22 +0900] [16] [INFO] Shutting down
+[2021-09-19 19:28:22 +0900] [16] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:28:22 +0900] [13] [INFO] Shutting down
+[2021-09-19 19:28:22 +0900] [13] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:28:22 +0900] [15] [INFO] Shutting down
+[2021-09-19 19:28:22 +0900] [15] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:28:22 +0900] [12] [INFO] Shutting down
+[2021-09-19 19:28:22 +0900] [12] [INFO] Error while closing socket [Errno 9] Bad file descriptor
+[2021-09-19 19:28:22 +0900] [19] [INFO] Waiting for application shutdown.
+[2021-09-19 19:28:22 +0900] [19] [INFO] Application shutdown complete.
+[2021-09-19 19:28:22 +0900] [19] [INFO] Finished server process [19]
+[2021-09-19 19:28:22 +0900] [19] [INFO] Worker exiting (pid: 19)
+[2021-09-19 19:28:22 +0900] [25] [INFO] Waiting for application shutdown.
+[2021-09-19 19:28:22 +0900] [25] [INFO] Application shutdown complete.
+[2021-09-19 19:28:22 +0900] [25] [INFO] Finished server process [25]
+[2021-09-19 19:28:22 +0900] [25] [INFO] Worker exiting (pid: 25)
+[2021-09-19 19:28:22 +0900] [17] [INFO] Waiting for application shutdown.
+[2021-09-19 19:28:22 +0900] [17] [INFO] Application shutdown complete.
+[2021-09-19 19:28:22 +0900] [17] [INFO] Finished server process [17]
+[2021-09-19 19:28:22 +0900] [22] [INFO] Waiting for application shutdown.
+[2021-09-19 19:28:22 +0900] [17] [INFO] Worker exiting (pid: 17)
+[2021-09-19 19:28:22 +0900] [22] [INFO] Application shutdown complete.
+[2021-09-19 19:28:22 +0900] [22] [INFO] Finished server process [22]
+[2021-09-19 19:28:22 +0900] [22] [INFO] Worker exiting (pid: 22)
+[2021-09-19 19:28:22 +0900] [23] [INFO] Waiting for application shutdown.
+[2021-09-19 19:28:22 +0900] [23] [INFO] Application shutdown complete.
+[2021-09-19 19:28:22 +0900] [23] [INFO] Finished server process [23]
+[2021-09-19 19:28:22 +0900] [23] [INFO] Worker exiting (pid: 23)
+[2021-09-19 19:28:22 +0900] [16] [INFO] Waiting for application shutdown.
+[2021-09-19 19:28:22 +0900] [16] [INFO] Application shutdown complete.
+[2021-09-19 19:28:22 +0900] [16] [INFO] Finished server process [16]
+[2021-09-19 19:28:22 +0900] [16] [INFO] Worker exiting (pid: 16)
+[2021-09-19 19:28:22 +0900] [13] [INFO] Waiting for application shutdown.
+[2021-09-19 19:28:22 +0900] [13] [INFO] Application shutdown complete.
+[2021-09-19 19:28:22 +0900] [15] [INFO] Waiting for application shutdown.
+[2021-09-19 19:28:22 +0900] [13] [INFO] Finished server process [13]
+[2021-09-19 19:28:22 +0900] [15] [INFO] Application shutdown complete.
+[2021-09-19 19:28:22 +0900] [13] [INFO] Worker exiting (pid: 13)
+[2021-09-19 19:28:22 +0900] [15] [INFO] Finished server process [15]
+[2021-09-19 19:28:22 +0900] [15] [INFO] Worker exiting (pid: 15)
+[2021-09-19 19:28:22 +0900] [12] [INFO] Waiting for application shutdown.
+[2021-09-19 19:28:22 +0900] [12] [INFO] Application shutdown complete.
+[2021-09-19 19:28:22 +0900] [12] [INFO] Finished server process [12]
+[2021-09-19 19:28:22 +0900] [12] [INFO] Worker exiting (pid: 12)
+[2021-09-19 19:28:22 +0900] [1] [INFO] Shutting down: Master
+[2021-09-19 19:37:03 +0900] [1] [INFO] Starting gunicorn 20.0.4
+[2021-09-19 19:37:03 +0900] [1] [INFO] Listening at: http://0.0.0.0:2003 (1)
+[2021-09-19 19:37:03 +0900] [1] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2021-09-19 19:37:03 +0900] [14] [INFO] Booting worker with pid: 14
+[2021-09-19 19:37:03 +0900] [15] [INFO] Booting worker with pid: 15
+[2021-09-19 19:37:03 +0900] [16] [INFO] Booting worker with pid: 16
+[2021-09-19 19:37:03 +0900] [14] [INFO] Started server process [14]
+[2021-09-19 19:37:03 +0900] [14] [INFO] Waiting for application startup.
+[2021-09-19 19:37:03 +0900] [14] [INFO] Application startup complete.
+[2021-09-19 19:37:03 +0900] [19] [INFO] Booting worker with pid: 19
+[2021-09-19 19:37:03 +0900] [15] [INFO] Started server process [15]
+[2021-09-19 19:37:03 +0900] [15] [INFO] Waiting for application startup.
+[2021-09-19 19:37:03 +0900] [15] [INFO] Application startup complete.
+[2021-09-19 19:37:03 +0900] [20] [INFO] Booting worker with pid: 20
+[2021-09-19 19:37:03 +0900] [21] [INFO] Booting worker with pid: 21
+[2021-09-19 19:37:03 +0900] [16] [INFO] Started server process [16]
+[2021-09-19 19:37:03 +0900] [16] [INFO] Waiting for application startup.
+[2021-09-19 19:37:03 +0900] [16] [INFO] Application startup complete.
+[2021-09-19 19:37:03 +0900] [23] [INFO] Booting worker with pid: 23
+[2021-09-19 19:37:04 +0900] [20] [INFO] Started server process [20]
+[2021-09-19 19:37:04 +0900] [20] [INFO] Waiting for application startup.
+[2021-09-19 19:37:04 +0900] [20] [INFO] Application startup complete.
+[2021-09-19 19:37:04 +0900] [19] [INFO] Started server process [19]
+[2021-09-19 19:37:04 +0900] [19] [INFO] Waiting for application startup.
+[2021-09-19 19:37:04 +0900] [19] [INFO] Application startup complete.
+[2021-09-19 19:37:04 +0900] [27] [INFO] Booting worker with pid: 27
+[2021-09-19 19:37:04 +0900] [21] [INFO] Started server process [21]
+[2021-09-19 19:37:04 +0900] [21] [INFO] Waiting for application startup.
+[2021-09-19 19:37:04 +0900] [21] [INFO] Application startup complete.
+[2021-09-19 19:37:04 +0900] [28] [INFO] Booting worker with pid: 28
+[2021-09-19 19:37:04 +0900] [23] [INFO] Started server process [23]
+[2021-09-19 19:37:04 +0900] [23] [INFO] Waiting for application startup.
+[2021-09-19 19:37:04 +0900] [23] [INFO] Application startup complete.
+[2021-09-19 19:37:04 +0900] [27] [INFO] Started server process [27]
+[2021-09-19 19:37:04 +0900] [27] [INFO] Waiting for application startup.
+[2021-09-19 19:37:04 +0900] [27] [INFO] Application startup complete.
+[2021-09-19 19:37:04 +0900] [28] [INFO] Started server process [28]
+[2021-09-19 19:37:04 +0900] [28] [INFO] Waiting for application startup.
+[2021-09-19 19:37:04 +0900] [28] [INFO] Application startup complete.
+[2021-09-19 19:38:12 +0900] [23] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:38:12 +0900] [27] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:38:12 +0900] [28] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:38:13 +0900] [14] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:38:13 +0900] [15] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:38:13 +0900] [16] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:38:13 +0900] [20] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:38:13 +0900] [19] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified
+[2021-09-19 19:38:13 +0900] [21] [INFO] Worker reloading: /usr/src/fastapi_sample/backend/main.py modified

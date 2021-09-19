@@ -1,0 +1,15 @@
+version: '1'
+
+services:
+  fastapi:
+    ports:
+      - 2003:2003
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    restart: always
+    volumes:
+      - ./api:/api
+    command: >
+      pipenv run gunicorn backend.main:app
+      --config './backend/gunicorn.conf.py'
