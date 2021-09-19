@@ -1,4 +1,0 @@
-FROM ubuntu:20.04
-LABEL description="inkscpaeのAPIサーバー"
-RUN apt update
-RUN sudo add-apt-repository -y ppa:inkscape.dev/stable

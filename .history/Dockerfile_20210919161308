@@ -1,5 +1,0 @@
-FROM ubuntu:20.04
-LABEL description="inkscpaeのAPIサーバー"
-RUN add-apt-repository -y ppa:inkscape.dev/stable
-RUN apt update
-RUN sudo apt -y install inkscape
